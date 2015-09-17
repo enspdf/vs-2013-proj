@@ -1,0 +1,10 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\ModelCL.dll.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\ModelCL.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\ModelCL.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\EntityFramework.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\EntityFramework.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\obj\Debug\ModelCL.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\obj\Debug\ModelCL.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DemoModelos\ModelCL\obj\Debug\ModelCL.csprojResolveAssemblyReference.cache

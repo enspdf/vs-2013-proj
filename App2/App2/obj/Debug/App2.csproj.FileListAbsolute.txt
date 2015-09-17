@@ -1,0 +1,14 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\bin\Debug\App2.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\bin\Debug\App2.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\bin\Debug\App2.dll.mdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\bin\Debug\App2.App2.apk
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\bin\Debug\App2.App2-Signed.apk
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\App2.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\App2.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\android\bin\App2.App2.apk
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\layout\main.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\values\strings.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\drawable\icon.png
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\R.cs.flag
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\uploadflags.txt

@@ -1,0 +1,11 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\bin\Debug\Factura-detFactura-crud-COMPLETO.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\bin\Debug\Factura-detFactura-crud-COMPLETO.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\bin\Debug\Factura-detFactura-crud-COMPLETO.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\obj\Debug\Factura_detFactura_crud_COMPLETO.Form1.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\obj\Debug\Factura_detFactura_crud_COMPLETO.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\obj\Debug\Factura-detFactura-crud-COMPLETO.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\obj\Debug\Factura-detFactura-crud-COMPLETO.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\obj\Debug\Factura-detFactura-crud-COMPLETO.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-detFactura-crud-COMPLETO\obj\Debug\Factura-detFactura-crud-COMPLETO.csprojResolveAssemblyReference.cache

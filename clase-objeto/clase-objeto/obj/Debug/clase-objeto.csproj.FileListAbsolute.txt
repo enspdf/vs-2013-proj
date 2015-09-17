@@ -1,0 +1,9 @@
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\bin\Debug\clase-objeto.exe.config
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\bin\Debug\clase-objeto.exe
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\bin\Debug\clase-objeto.pdb
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\obj\Debug\clase-objeto.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\obj\Debug\clase_objeto.Hospitaal.resources
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\obj\Debug\clase_objeto.Properties.Resources.resources
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\obj\Debug\clase-objeto.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\obj\Debug\clase-objeto.exe
+C:\Users\Sebastian-pc\Documents\visual studio\clase-objeto\clase-objeto\obj\Debug\clase-objeto.pdb

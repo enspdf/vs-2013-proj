@@ -1,0 +1,11 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\bin\Debug\Banco-crud.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\bin\Debug\Banco-crud.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\bin\Debug\Banco-crud.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\obj\Debug\Banco-crud.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\obj\Debug\Banco_crud.Form1.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\obj\Debug\Banco_crud.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\obj\Debug\Banco-crud.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\obj\Debug\Banco-crud.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Banco-crud\obj\Debug\Banco-crud.pdb

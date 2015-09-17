@@ -1,0 +1,1 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\SQLite-CRUD\SQLite-CRUD\bin\Debug\SQLite-CRUD.exe.config

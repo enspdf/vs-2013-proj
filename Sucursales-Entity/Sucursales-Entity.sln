@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sucursales-Entity", "Sucursales-Entity\Sucursales-Entity.csproj", "{1D7AECFE-B9EC-47D4-AB7B-337124F536A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco-crud", "Banco-crud\Banco-crud.csproj", "{090DF8C2-7622-49E4-8A2D-DBBF9833EDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud-Factura", "Crud-Factura\Crud-Factura.csproj", "{FABDE432-7641-40B9-A1CC-D80A2D81BFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factura-detFactura-crud", "Factura-detFactura-crud\Factura-detFactura-crud.csproj", "{8567A501-066E-43B9-BE7C-3C0F0953B1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factura-detFactura-crud-COMPLETO", "Factura-detFactura-crud-COMPLETO\Factura-detFactura-crud-COMPLETO.csproj", "{875BC206-1281-441D-ADB4-15F1B8883137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factura-CRUD-extrayendo-DATAGRID", "Factura-CRUD-extrayendo-DATAGRID\Factura-CRUD-extrayendo-DATAGRID.csproj", "{E3D091F8-4F36-4398-876D-D3A4D99AA0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7AECFE-B9EC-47D4-AB7B-337124F536A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7AECFE-B9EC-47D4-AB7B-337124F536A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7AECFE-B9EC-47D4-AB7B-337124F536A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7AECFE-B9EC-47D4-AB7B-337124F536A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090DF8C2-7622-49E4-8A2D-DBBF9833EDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090DF8C2-7622-49E4-8A2D-DBBF9833EDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090DF8C2-7622-49E4-8A2D-DBBF9833EDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090DF8C2-7622-49E4-8A2D-DBBF9833EDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABDE432-7641-40B9-A1CC-D80A2D81BFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABDE432-7641-40B9-A1CC-D80A2D81BFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABDE432-7641-40B9-A1CC-D80A2D81BFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABDE432-7641-40B9-A1CC-D80A2D81BFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8567A501-066E-43B9-BE7C-3C0F0953B1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8567A501-066E-43B9-BE7C-3C0F0953B1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8567A501-066E-43B9-BE7C-3C0F0953B1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8567A501-066E-43B9-BE7C-3C0F0953B1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875BC206-1281-441D-ADB4-15F1B8883137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875BC206-1281-441D-ADB4-15F1B8883137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875BC206-1281-441D-ADB4-15F1B8883137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875BC206-1281-441D-ADB4-15F1B8883137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D091F8-4F36-4398-876D-D3A4D99AA0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D091F8-4F36-4398-876D-D3A4D99AA0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D091F8-4F36-4398-876D-D3A4D99AA0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D091F8-4F36-4398-876D-D3A4D99AA0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

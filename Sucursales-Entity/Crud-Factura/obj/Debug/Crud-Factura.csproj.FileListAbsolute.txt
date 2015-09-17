@@ -1,0 +1,11 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\bin\Debug\Crud-Factura.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\bin\Debug\Crud-Factura.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\bin\Debug\Crud-Factura.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\obj\Debug\Crud-Factura.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\obj\Debug\Crud_Factura.Form1.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\obj\Debug\Crud_Factura.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\obj\Debug\Crud-Factura.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\obj\Debug\Crud-Factura.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Crud-Factura\obj\Debug\Crud-Factura.pdb

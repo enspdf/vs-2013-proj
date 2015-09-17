@@ -1,0 +1,11 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\bin\Debug\MetroFramework-Appearance.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\bin\Debug\MetroFramework-Appearance.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\bin\Debug\MetroFramework-Appearance.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\bin\Debug\MetroFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\obj\Debug\MetroFramework_Appearance.Form1.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\obj\Debug\MetroFramework_Appearance.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\obj\Debug\MetroFramework-Appearance.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\obj\Debug\MetroFramework-Appearance.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MetroFramework-Appearance\obj\Debug\MetroFramework-Appearance.pdb

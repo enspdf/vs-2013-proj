@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetBar-Appearance", "DotNetBar-Appearance\DotNetBar-Appearance.csproj", "{1EFF8FF0-EA9B-4CEE-BD81-F2D756779176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroFramework-Appearance", "MetroFramework-Appearance\MetroFramework-Appearance.csproj", "{6A4D7004-FCE9-438B-96CC-76299455EDF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesign-Appearance", "MaterialDesign-Appearance\MaterialDesign-Appearance.csproj", "{23F4BFF3-554D-408D-A81E-44760C85607C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototypes-project", "Prototypes-project\Prototypes-project.csproj", "{CE1A2CB3-420C-4786-8D2B-ED4DC2EA2622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFF8FF0-EA9B-4CEE-BD81-F2D756779176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFF8FF0-EA9B-4CEE-BD81-F2D756779176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFF8FF0-EA9B-4CEE-BD81-F2D756779176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFF8FF0-EA9B-4CEE-BD81-F2D756779176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4D7004-FCE9-438B-96CC-76299455EDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4D7004-FCE9-438B-96CC-76299455EDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4D7004-FCE9-438B-96CC-76299455EDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4D7004-FCE9-438B-96CC-76299455EDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F4BFF3-554D-408D-A81E-44760C85607C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F4BFF3-554D-408D-A81E-44760C85607C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F4BFF3-554D-408D-A81E-44760C85607C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F4BFF3-554D-408D-A81E-44760C85607C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1A2CB3-420C-4786-8D2B-ED4DC2EA2622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1A2CB3-420C-4786-8D2B-ED4DC2EA2622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1A2CB3-420C-4786-8D2B-ED4DC2EA2622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1A2CB3-420C-4786-8D2B-ED4DC2EA2622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

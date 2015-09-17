@@ -1,0 +1,10 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\bin\Debug\MaterialDesign-Appearance.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\bin\Debug\MaterialDesign-Appearance.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\bin\Debug\MaterialDesign-Appearance.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\bin\Debug\MaterialSkin.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\obj\Debug\MaterialDesign-Appearance.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\obj\Debug\MaterialDesign_Appearance.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\obj\Debug\MaterialDesign-Appearance.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\obj\Debug\MaterialDesign-Appearance.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\obj\Debug\MaterialDesign-Appearance.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\MaterialDesign-Appearance\obj\Debug\MaterialDesign_Appearance.Form1.resources

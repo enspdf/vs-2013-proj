@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DetalleFactura">
+    <Key>
+      <PropertyRef Name="CodDetalle" />
+    </Key>
+    <Property Name="CodDetalle" Type="Int32" Nullable="false" />
+    <Property Name="CodFactura" Type="Int32" Nullable="false" />
+    <Property Name="NombreProducto" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <Property Name="ValorProducto" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Factura" Relationship="Self.FK_Detalle_Factura_Factura" FromRole="DetalleFactura" ToRole="Factura" />
+  </EntityType>
+  <EntityType Name="Factura">
+    <Key>
+      <PropertyRef Name="CodFactura" />
+    </Key>
+    <Property Name="CodFactura" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ValorTotal" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Ciudad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DetalleFactura" Relationship="Self.FK_Detalle_Factura_Factura" FromRole="Factura" ToRole="DetalleFactura" />
+  </EntityType>
+  <Association Name="FK_Detalle_Factura_Factura">
+    <End Role="Factura" Type="Self.Factura" Multiplicity="1" />
+    <End Role="DetalleFactura" Type="Self.DetalleFactura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Factura">
+        <PropertyRef Name="CodFactura" />
+      </Principal>
+      <Dependent Role="DetalleFactura">
+        <PropertyRef Name="CodFactura" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entitidades" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DetalleFactura" EntityType="Self.DetalleFactura" />
+    <EntitySet Name="Factura" EntityType="Self.Factura" />
+    <AssociationSet Name="FK_Detalle_Factura_Factura" Association="Self.FK_Detalle_Factura_Factura">
+      <End Role="Factura" EntitySet="Factura" />
+      <End Role="DetalleFactura" EntitySet="DetalleFactura" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

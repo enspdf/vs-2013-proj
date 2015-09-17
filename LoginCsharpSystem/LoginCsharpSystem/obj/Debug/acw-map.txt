@@ -1,0 +1,4 @@
+LoginCsharpSystem.MainActivity, LoginCsharpSystem;md5b52fbb2fc4c5ad0809d4517e1f99b7aa.MainActivity
+LoginCsharpSystem.MainActivity, LoginCsharpSystem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b52fbb2fc4c5ad0809d4517e1f99b7aa.MainActivity
+LoginCsharpSystem.MainActivity;md5b52fbb2fc4c5ad0809d4517e1f99b7aa.MainActivity
+logincsharpsystem.MainActivity;md5b52fbb2fc4c5ad0809d4517e1f99b7aa.MainActivity

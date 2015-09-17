@@ -1,0 +1,10 @@
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\AspBlank.dll.config
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\AspBlank.dll
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\AspBlank.pdb
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\obj\Debug\AspBlank.dll
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\obj\Debug\AspBlank.pdb
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\EntityFramework.dll
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\EntityFramework.SqlServer.dll
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\EntityFramework.xml
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\bin\EntityFramework.SqlServer.xml
+c:\Users\sebastian-pc\documents\visual studio 2013\Projects\AspCRUD\AspBlank\obj\Debug\AspBlank.csprojResolveAssemblyReference.cache

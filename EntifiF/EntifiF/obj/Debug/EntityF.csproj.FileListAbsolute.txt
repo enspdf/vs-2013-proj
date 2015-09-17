@@ -1,0 +1,13 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntifiF.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntifiF.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntifiF.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntityFramework.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntityFramework.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\obj\Debug\EntityF.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\obj\Debug\EntifiF.Form1.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\obj\Debug\EntifiF.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\obj\Debug\EntityF.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\obj\Debug\EntifiF.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EntifiF\EntifiF\obj\Debug\EntifiF.pdb

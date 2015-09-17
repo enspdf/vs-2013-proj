@@ -1,0 +1,4 @@
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\Listview-\obj\Debug\Listview_.Form1.resources
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\Listview-\obj\Debug\Listview_.Properties.Resources.resources
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\Listview-\obj\Debug\Listview-.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\Listview-\bin\Debug\Listview-.exe.config

@@ -1,0 +1,10 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\bin\Debug\Sucursales-Entity.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\bin\Debug\Sucursales-Entity.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\bin\Debug\Sucursales-Entity.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\obj\Debug\Sucursales_Entity.Form1.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\obj\Debug\Sucursales_Entity.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\obj\Debug\Sucursales-Entity.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\obj\Debug\Sucursales-Entity.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Sucursales-Entity\obj\Debug\Sucursales-Entity.pdb

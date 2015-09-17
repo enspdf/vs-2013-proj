@@ -1,0 +1,8 @@
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\bin\Debug\picturebox-.exe.config
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\bin\Debug\picturebox-.exe
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\bin\Debug\picturebox-.pdb
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\obj\Debug\picturebox_.Form1.resources
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\obj\Debug\picturebox_.Properties.Resources.resources
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\obj\Debug\picturebox-.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\obj\Debug\picturebox-.exe
+C:\Users\Sebastian-pc\Documents\visual studio\picturebox-\picturebox-\obj\Debug\picturebox-.pdb

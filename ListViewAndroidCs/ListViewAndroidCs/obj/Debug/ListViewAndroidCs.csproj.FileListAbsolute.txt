@@ -1,0 +1,15 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\bin\Debug\ListViewAndroidCs.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\bin\Debug\ListViewAndroidCs.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\bin\Debug\ListViewAndroidCs.dll.mdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\bin\Debug\ListViewAndroidCs.ListViewAndroidCs.apk
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\bin\Debug\ListViewAndroidCs.ListViewAndroidCs-Signed.apk
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\ListViewAndroidCs.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\ListViewAndroidCs.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\ListViewAndroidCs.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\android\bin\ListViewAndroidCs.ListViewAndroidCs.apk
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\res\layout\listview_row.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\res\layout\main.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\res\values\strings.xml
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\res\drawable\icon.png
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\R.cs.flag
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\ListViewAndroidCs\ListViewAndroidCs\obj\Debug\uploadflags.txt

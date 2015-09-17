@@ -1,0 +1,9 @@
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\bin\Debug\applst.exe.config
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\bin\Debug\applst.exe
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\bin\Debug\applst.pdb
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\obj\Debug\applst.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\obj\Debug\applst.Form1.resources
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\obj\Debug\applst.Properties.Resources.resources
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\obj\Debug\applst.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\obj\Debug\applst.exe
+C:\Users\Sebastian-pc\Documents\visual studio\applst\applst\obj\Debug\applst.pdb

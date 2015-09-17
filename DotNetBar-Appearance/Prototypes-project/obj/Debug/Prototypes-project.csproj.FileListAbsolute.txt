@@ -1,0 +1,13 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\Prototypes-project.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\Prototypes-project.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\Prototypes-project.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\MaterialSkin.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\MetroFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\obj\Debug\Prototypes-project.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\obj\Debug\Prototypes_project.Form1.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\obj\Debug\Prototypes_project.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\obj\Debug\Prototypes-project.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\obj\Debug\Prototypes-project.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\Prototypes-project\obj\Debug\Prototypes-project.pdb

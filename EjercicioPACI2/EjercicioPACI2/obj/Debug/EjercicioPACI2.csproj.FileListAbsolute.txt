@@ -1,0 +1,9 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\bin\Debug\EjercicioPACI2.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\bin\Debug\EjercicioPACI2.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\bin\Debug\EjercicioPACI2.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\obj\Debug\EjercicioPACI2.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\obj\Debug\EjercicioPACI2.Factura.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\obj\Debug\EjercicioPACI2.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\obj\Debug\EjercicioPACI2.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\obj\Debug\EjercicioPACI2.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjercicioPACI2\EjercicioPACI2\obj\Debug\EjercicioPACI2.pdb

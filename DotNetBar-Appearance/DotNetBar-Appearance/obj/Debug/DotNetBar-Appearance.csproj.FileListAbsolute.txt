@@ -1,0 +1,9 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\bin\Debug\DotNetBar-Appearance.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\bin\Debug\DotNetBar-Appearance.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\bin\Debug\DotNetBar-Appearance.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\obj\Debug\DotNetBar-Appearance.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\obj\Debug\DotNetBar_Appearance.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\obj\Debug\DotNetBar-Appearance.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\obj\Debug\DotNetBar-Appearance.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\obj\Debug\DotNetBar-Appearance.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\DotNetBar-Appearance\DotNetBar-Appearance\obj\Debug\DotNetBar_Appearance.Form1.resources

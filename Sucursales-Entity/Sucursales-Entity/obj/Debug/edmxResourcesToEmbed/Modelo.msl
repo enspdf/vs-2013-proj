@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Banco">
+      <EntityTypeMapping TypeName="Model.Banco">
+        <MappingFragment StoreEntitySet="Banco">
+          <ScalarProperty Name="Codbanco" ColumnName="Codbanco" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sucursal">
+      <EntityTypeMapping TypeName="Model.Sucursal">
+        <MappingFragment StoreEntitySet="Sucursal">
+          <ScalarProperty Name="CodSucursal" ColumnName="CodSucursal" />
+          <ScalarProperty Name="CodBanco" ColumnName="CodBanco" />
+          <ScalarProperty Name="DireccionSuc" ColumnName="DireccionSuc" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,11 @@
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\bin\Debug\Factura-CRUD-extrayendo-DATAGRID.exe.config
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\bin\Debug\Factura-CRUD-extrayendo-DATAGRID.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\bin\Debug\Factura-CRUD-extrayendo-DATAGRID.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\obj\Debug\Factura_CRUD_extrayendo_DATAGRID.Factura_Detalles.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\obj\Debug\Factura_CRUD_extrayendo_DATAGRID.Properties.Resources.resources
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\obj\Debug\Factura-CRUD-extrayendo-DATAGRID.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\obj\Debug\Factura-CRUD-extrayendo-DATAGRID.exe
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\obj\Debug\Factura-CRUD-extrayendo-DATAGRID.pdb
+C:\Users\Sebastian-pc\documents\visual studio 2013\Projects\Sucursales-Entity\Factura-CRUD-extrayendo-DATAGRID\obj\Debug\Factura-CRUD-extrayendo-DATAGRID.csprojResolveAssemblyReference.cache

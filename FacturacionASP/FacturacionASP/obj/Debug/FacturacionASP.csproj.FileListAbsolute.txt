@@ -1,0 +1,6 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\FacturacionASP\FacturacionASP\bin\FacturacionASP.dll.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\FacturacionASP\FacturacionASP\bin\FacturacionASP.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\FacturacionASP\FacturacionASP\bin\FacturacionASP.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\FacturacionASP\FacturacionASP\obj\Debug\FacturacionASP.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\FacturacionASP\FacturacionASP\obj\Debug\FacturacionASP.dll
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\FacturacionASP\FacturacionASP\obj\Debug\FacturacionASP.pdb

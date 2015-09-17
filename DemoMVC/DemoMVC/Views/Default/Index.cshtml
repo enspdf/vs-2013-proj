@@ -1,0 +1,27 @@
+﻿@model DemoMVC.Models.Demo
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        Vista index sin modelo
+    </div>
+    <div>
+        @Model.Message
+    </div>
+    <div>
+        @Model.MessageHTML        
+    </div>
+    <div>
+        @Html.Raw(Model.MessageHTML)   
+    </div>
+</body>
+</html>
